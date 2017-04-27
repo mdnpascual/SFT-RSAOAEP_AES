@@ -1,4 +1,4 @@
-# An Encrypted Hybrid File transfer using RSA to encrypt the AES Keys to encrypt the payload with Chinese remaindering implemented as well as the OAEP Protocol
+# An Encrypted Hybrid File transfer using RSA public key cryptosystem to encrypt the AES Keys to encrypt the payload with Chinese remaindering implemented as well as the OAEP Protocol
 
 RSATool - The class that is responsible for RSA encryption and decryption of the AES key used to encrypt and decrypt the file.
 
